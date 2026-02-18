@@ -18,7 +18,7 @@ Digital Eye is an Android accessibility application designed to assist visually 
 - Java
 - Android Studio
 - Gradle
-- Firebase (if used)
+- Firebase 
 
 ---
 
