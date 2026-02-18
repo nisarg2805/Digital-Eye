@@ -22,13 +22,6 @@ Digital Eye is an Android accessibility application designed to assist visually 
 
 ---
 
-## 📸 Screenshots
-
-![Home Screen](screenshots/2026-02-18 101056.png)
-![Login Screen](screenshots/2026-02-18 101043.png)
-
----
-
 ## 🚀 Setup Instructions
 
 1. Clone repository
